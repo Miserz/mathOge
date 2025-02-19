@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MathOge
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Enhanced testing interface with answer validation and time editing
 // @author       Miserz_
 // @match        https://math-oge.sdamgia.ru/*
