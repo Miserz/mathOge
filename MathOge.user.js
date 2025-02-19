@@ -6,6 +6,9 @@
 // @author       Miserz_
 // @match        https://math-oge.sdamgia.ru/*
 // @grant        none
+// @homepageURL    https://github.com/Miserz/mathOge
+// @updateURL      https://raw.githubusercontent.com/Miserz/mathOge/master/MathOge.user.js
+// @downloadURL    https://raw.githubusercontent.com/Miserz/mathOge/master/MathOge.user.js
 // ==/UserScript==
 
 (function() {
